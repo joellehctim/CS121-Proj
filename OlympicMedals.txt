@@ -1,0 +1,4 @@
+<Country>     <Gold Medals>    <Silver Medals>     <Bronze Medals>
+USA                  10                   10                10             
+China                0                    0                 0              
+Korea                5                    5                 5              
