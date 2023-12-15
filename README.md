@@ -1,5 +1,8 @@
 # CS121-Proj
 | Code Function  | Link to code |
 | -------------- | -------------|
-| Content Cell  | [test](#www.google.com) |
-| Content Cell  | Content Cell  |
+| Character Battle  | [Link](#www.google.com](https://github.com/joellehctim/CS121-Proj/blob/Joseph/src/Project1/CharacterBattle.java)https://github.com/joellehctim/CS121-Proj/blob/Joseph/src/Project1/CharacterBattle.java) |
+| Movie Booking Simulation  | [Link](#https://github.com/joellehctim/CS121-Proj/blob/Joseph/src/WeekNine/MovieBookingSimulation.java)  |
+| Class Activity | [Link](#https://github.com/joellehctim/CS121-Proj/blob/Joseph/src/classActivity/Htest.java) |
+| Movie Inheritance Activity  | [Link](#https://github.com/joellehctim/CS121-Proj/blob/Joseph/src/inheritance/movie.java)|
+| Word Game | [Link](#https://github.com/joellehctim/CS121-Proj/blob/Joseph/src/WeekTwo/Wordgame.java)|
